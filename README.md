@@ -16,16 +16,16 @@ The index/search page is already working, it searches for movies and shows the r
 
 The detail page should contain the following:
 
-    ●	The movie title and tagline.
-    ●	The movie overview.
-    ●	The release year and runtime.
-    ●	The poster image.
-    ●	The list of genres.
-    ●	Bonus: A link to IMDB (check the TMDb API response).
+-   The movie title and tagline.
+-   The movie overview.
+-   The release year and runtime.
+-   The poster image.
+-   The list of genres.
+-   Bonus: A link to IMDB (check the TMDb API response).
 
 Fetch movie data from the TMDb API by ID, having performance and page speed in mind.
 
 Bonus:
 
-    ●	Add a toggle button on index page to order movie results by released date or popularity.
-    ●	Add pagination to index page.
+-   Add a toggle button on index page to order movie results by released date or popularity.
+-   Add pagination to index page.
