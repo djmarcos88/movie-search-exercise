@@ -4,8 +4,6 @@ Objective: Improve a movie library app using Next.JS, which allows users to sear
 
 API Reference: https://developer.themoviedb.org/reference/intro/getting-started
 
-Bearer token: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjMDViNGEzZDMxYjQ2MzRmYWQ1NjQ2MjExNjY3ZmNiZSIsInN1YiI6IjY1NDRmYTg5NDFhNTYxMzM2YTIxYjdkMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.JQ-GViCO16iG5oV-bpFtrx1tjaa3S85thxd5cAufXDs
-
 ## Requirements:
 
 This is a Next.JS v14 project, setup with App Router; if you are not familiar with Next.JS App Router you can still use Page Router, they can co-exist.
