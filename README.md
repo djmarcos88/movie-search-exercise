@@ -8,7 +8,7 @@ Bearer token: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjMDViNGEzZDMxYjQ2MzRmYWQ1NjQ2MjExN
 
 ## Requirements:
 
-This is a Next.JS v14 project setup with App Router; if you are not familiar with Next.JS App Router you can still use Page Router, they can co-exist.
+This is a Next.JS v14 project, setup with App Router; if you are not familiar with Next.JS App Router you can still use Page Router, they can co-exist.
 
 Design the UI with simple CSS, the project has TailwindCSS and DaisyUI already setup up to simplify styling. It is strongly suggested to leverage DaisyUI styles to speed up styling elements.
 
@@ -21,6 +21,7 @@ The detail page should contain the following:
 -   The release year and runtime.
 -   The poster image.
 -   The list of genres.
+-   A fake "like" button. For the interest of speed, doesn't need to use icons, but should show a different style after clicking it (doesn't need to call an API or anything).
 -   Bonus: A link to IMDB (check the TMDb API response).
 
 Fetch movie data from the TMDb API by ID, having performance and page speed in mind.
